@@ -1,0 +1,5 @@
+* 07ab626 Add edit by [Peerapat Meephosom]
+* 6203bc8 Update version to 1.5 by team
+* 12ef8e6 Add index.txt for V.1
+* 2fd166a Update README with Git workflow instructions
+* f019cb6 Initial commit
